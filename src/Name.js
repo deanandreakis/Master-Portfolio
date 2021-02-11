@@ -34,27 +34,27 @@ const socialMedia = [
     {
         icon: "facebook",
         img: "https://logo.letskhabar.com/img?tool=facebook0",
-        link: "www.facebook.com/deanware55"
+        link: "https://www.facebook.com/deanware55"
     },
     {
         icon: "twitter",
         img: "https://logo.letskhabar.com/img?tool=twitter",
-        link: "twitter.com/deanware20"
+        link: "https://www.twitter.com/deanware20"
     },
     {
         icon: "github",
         img: "https://logo.letskhabar.com/img?tool=github",
-        link: "www.github.com/deanandreakis"
+        link: "https://www.github.com/deanandreakis"
     },
     {
         icon: "devto",
         img: "https://logo.letskhabar.com/img?tool=dev",
-        link: "dev.to/deanandreakis"
+        link: "https://dev.to/deanandreakis"
     },
     {
         icon: "linkedin",
         img: "https://logo.letskhabar.com/img?tool=linkedin",
-        link: "www.linkedin.com/in/deanandreakis"
+        link: "https://www.linkedin.com/in/deanandreakis"
     },
     {
         icon: "mail",
