@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webd from '../assets/img/cloud.svg';
+import webd from '../assets/img/cloud_hosting.svg';
 import { cloud_infra_architecture_Bio,cloud_infra_architecture_Skill } from '../Name'
 
 class Cloud extends Component {

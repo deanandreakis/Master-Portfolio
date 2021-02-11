@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Nav from '../components/Nav';
 import Footer from '../components/Footer'
 import { BlogData } from '../Name'
-import skills from '../assets/img/skill.svg'
+import skills from '../assets/img/blog.svg'
 import Blog from "../components/Blog";
 
 class Skills extends Component {

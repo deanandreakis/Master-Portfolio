@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
-import education from '../assets/img/clip-work-searches.svg';
+import education from '../assets/img/education.svg';
 import './education.css';
 import Card from '../components/CertiCard'
 import { greeting, EducationBio } from '../Name'
