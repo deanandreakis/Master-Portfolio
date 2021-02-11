@@ -1,12 +1,12 @@
 const greeting = {
     title: "Hi, I'm Dean",
-    logo_name: "Name",
+    logo_name: "Dean W. Andreakis",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
     full_name: "Dean W. Andreakis",
     email: "dean@deanware.biz",
     subTitle:
-    "I'm a student pursuing {Course} in {department} from {university}. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my MERN Website",
+    "I'm a professional software developer and architect. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and apply them to projects.",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: false,  // if true, Show 'designer' section in home page, if false than not show
@@ -23,9 +23,7 @@ const BlogData = {
     devto_username: "deanandreakis",
     Blog_Bio : [
         // this is visible in '/blog' section if show_Blog: true, else show in skill section
-        "You can Remove this section in name.js",
-        "Writing blog on Devto",
-        "my main skill is mobile and web dev"
+        ""
     ]
 };
 
@@ -36,42 +34,32 @@ const socialMedia = [
     {
         icon: "facebook",
         img: "https://logo.letskhabar.com/img?tool=facebook0",
-        link: "Your facebook link"
+        link: "www.facebook.com/deanware55"
     },
     {
         icon: "twitter",
         img: "https://logo.letskhabar.com/img?tool=twitter",
-        link: "Your twitter link"
-    },
-    {
-        icon: "instagram",
-        img: "https://logo.letskhabar.com/img?tool=instagram",
-        link: "Your instagram link"
+        link: "twitter.com/deanware20"
     },
     {
         icon: "github",
         img: "https://logo.letskhabar.com/img?tool=github",
-        link: "Your github link"
-    },
-    {
-        icon: "gitlab",
-        img: "https://logo.letskhabar.com/img?tool=gitlab",
-        link: "Your gitlab link"
+        link: "www.github.com/deanandreakis"
     },
     {
         icon: "devto",
         img: "https://logo.letskhabar.com/img?tool=dev",
-        link: "Your devto link"
+        link: "dev.to/deanandreakis"
     },
     {
         icon: "linkedin",
         img: "https://logo.letskhabar.com/img?tool=linkedin",
-        link: "Your linkedin link"
+        link: "www.linkedin.com/in/deanandreakis"
     },
     {
         icon: "mail",
         img: "https://logo.letskhabar.com/img?tool=mail",
-        link: "mailto:Your mail"
+        link: "mailto:dean@deanware.biz"
     }
 
 ];
