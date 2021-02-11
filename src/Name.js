@@ -1,31 +1,31 @@
 const greeting = {
-    title: "Hi, I'm Your Name",
+    title: "Hi, I'm Dean",
     logo_name: "Name",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
-    full_name: "your name",
-    email: "email id",
+    full_name: "Dean W. Andreakis",
+    email: "dean@deanware.biz",
     subTitle:
     "I'm a student pursuing {Course} in {department} from {university}. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development and working on my MERN Website",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
-    designer: true,  // if true, Show 'designer' section in home page, if false than not show
+    designer: false,  // if true, Show 'designer' section in home page, if false than not show
     cloud_infra_architecture:true,  // if true, Show 'cloud_infra_architecture' section in home page, if false than not show
-    data_Science: true,  // if true, Show 'data_Science' section in home page, if false than not show
-    ml_ai: true,  // if true, Show 'ml_ai' section in home page, if false than not show
-    Robotic: true,  // if true, Show 'Robotic' section in home page, if false than not show
-    gamedev: true,  // if true, Show 'gamedev' section in home page, if false than not show
+    data_Science: false,  // if true, Show 'data_Science' section in home page, if false than not show
+    ml_ai: false,  // if true, Show 'ml_ai' section in home page, if false than not show
+    Robotic: false,  // if true, Show 'Robotic' section in home page, if false than not show
+    gamedev: false,  // if true, Show 'gamedev' section in home page, if false than not show
 };
 
 const BlogData = {
     // this show your dev.to blog in your Portfolio blog
     show_Blog: true,  // if true it Show your DEV.to article in Blog Section, if false than Blog Section convert to skill Section.
-    devto_username: "vimal",
+    devto_username: "deanandreakis",
     Blog_Bio : [
         // this is visible in '/blog' section if show_Blog: true, else show in skill section
         "You can Remove this section in name.js",
         "Writing blog on Devto",
-        "my main skill is wen dev"
+        "my main skill is mobile and web dev"
     ]
 };
 
