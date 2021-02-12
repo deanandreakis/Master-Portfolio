@@ -6,7 +6,7 @@ const greeting = {
     full_name: "Dean W. Andreakis",
     email: "dean@deanware.biz",
     subTitle:
-    "I'm a professional software developer and architect. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and apply them to projects.",
+    "I'm a professional software developer and architect. I'm a continuous learner who loves to work across technologies and domains.",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
     developer: true,  // if true, Show 'Full Stack Development' section in home page, if false than not show
     designer: false,  // if true, Show 'designer' section in home page, if false than not show
@@ -50,6 +50,11 @@ const socialMedia = [
         icon: "devto",
         img: "https://logo.letskhabar.com/img?tool=dev",
         link: "https://dev.to/deanandreakis"
+    },
+    {
+        icon: "stackoverflow",
+        img: "https://logo.letskhabar.com/img?tool=stack-overflow",
+        link: "https://stackoverflow.com/users/35499/dean?tab=profile"
     },
     {
         icon: "linkedin",
@@ -286,7 +291,7 @@ const projects = [
         Code_Link: "this is code link",
         Live_link: "this is Live link",
         tool_used: "html,css,js",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: ""
     },
     {
         id: "2",
@@ -295,7 +300,7 @@ const projects = [
         Code_Link: "this is code link",
         Live_link: "this is Live link",
         tool_used: "html,css,js",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: ""
     },
     {
         id: "3",
@@ -304,7 +309,7 @@ const projects = [
         Code_Link: "this is code link",
         Live_link: "this is Live link",
         tool_used: "html,css,js",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: ""
     }
 ];
 const certificate = [
@@ -313,21 +318,21 @@ const certificate = [
         name: "certificate 1",
         Description: "this is Description",
         Link: "this is code link",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: ""
     },
     {
         id: "2",
         name: "certificate 2",
         Description: "this is Description",
         Link: "this is code link",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: ""
     },
     {
         id: "3",
         name: "certificate 3",
         Description: "this is Description",
         Link: "this is code link",
-        img: "https://master-portfolio.js.org/src/assets/img/mplogo.png"
+        img: ""
     }
 ];
 
