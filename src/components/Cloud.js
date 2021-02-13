@@ -26,7 +26,7 @@ class Cloud extends Component {
           </div>
           <div className="text-part">
             <div className="text">
-              <h2>Cloud Infra-Architecture</h2>
+              <h2>Cloud Architecture</h2>
               {BioList}
               <div className="sm">
               {CloudToollist}

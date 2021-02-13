@@ -60,7 +60,7 @@ class Main extends Component {
             <img src={Home} alt="clip worl" />
           </div>
         </div>
-        <h1>What I Do?</h1>
+        <h1>My Skills</h1>
         {Show_Programmer}
         {Show_dev}
         {Show_design}

@@ -1,7 +1,8 @@
 .sm-item{
     width: 60px;
-    
+    padding: 2px 2px 2px 2px
 }
+
 .sm :hover{
     transform: rotate(10deg);
     scale: 1.2;

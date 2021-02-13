@@ -35,7 +35,7 @@ class Education extends Component {
           </div>
           </div>
           <br/>
-          <h1>My certificate</h1>
+          <h1>My Degrees and Certificates</h1>
           <Card />
           <Footer/>
         </div>

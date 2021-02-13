@@ -8,7 +8,7 @@ class Card extends Component {
         const projectlist = projects.map(
             Project=> (
                 <div className="card icon-box" key={Project.id}>
-                <img src={Project.img} alt="Project" />
+                <img src={Project.img} alt=""/>
                 <h1 className="black">{Project.name}</h1>
                 <p className="black">{Project.Description}</p>
                 <code>{Project.tool_used}</code>

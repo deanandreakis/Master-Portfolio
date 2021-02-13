@@ -4,11 +4,10 @@ import {certificate} from '../Name'
 
 class Card extends Component {
     render() {
-        // console.log(projects)
         const Certilist = certificate.map(
             Certi=> (
                 <div className="card icon-box" key={Certi.id}>
-                <img src={Certi.img} alt="Project" />
+                <img src={Certi.img} alt=""/>
                 <h1 className="black">{Certi.name}</h1>
                 <p className="black">{Certi.Description}</p>
                 <div className="icons">

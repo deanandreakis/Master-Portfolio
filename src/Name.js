@@ -77,19 +77,25 @@ const ProgrammingSkill = [
         img: "https://logo.letskhabar.com/img?tool=c-programming"
     },
     {
-        icon: "java",
-        img: "https://logo.letskhabar.com/img?tool=java"
+        icon: "c-plus",
+        img: "https://logo.letskhabar.com/img?tool=c-plus"
     },
     {
         icon: "python",
         img: "https://logo.letskhabar.com/img?tool=python"
     },
-
-];
-
-const DevSkill = [
-    // https://logo.letskhabar.com/ all logo list
-    // you can use by changing tool name
+    {
+        icon: "c-sharp-logo",
+        img: "https://logo.letskhabar.com/img?tool=c-sharp-logo"
+    },
+    {
+        icon: "swift",
+        img: "https://logo.letskhabar.com/img?tool=swift"
+    },
+    {
+        icon: "javascript",
+        img: "https://logo.letskhabar.com/img?tool=javascript"
+    },
     {
         icon: "html",
         img: "https://logo.letskhabar.com/img?tool=html"
@@ -98,47 +104,31 @@ const DevSkill = [
         icon: "css",
         img: "https://logo.letskhabar.com/img?tool=css3"
     },
+];
+
+const DevSkill = [
+    // https://logo.letskhabar.com/ all logo list
+    // you can use by changing tool name
     {
-        icon: "js",
-        img: "https://logo.letskhabar.com/img?tool=javascript"
+        icon: "react",
+        img: "https://logo.letskhabar.com/img?tool=react"
+    },
+    {
+        icon: "apple-logo",
+        img: "https://logo.letskhabar.com/img?tool=apple-logo"
     },
     {
         icon: "node",
         img: "https://logo.letskhabar.com/img?tool=node"
     },
     {
-        icon: "sass",
-        img: "https://logo.letskhabar.com/img?tool=sass"
+        icon: "django",
+        img: "https://logo.letskhabar.com/img?tool=django"
     },
     {
-        icon: "react",
-        img: "https://logo.letskhabar.com/img?tool=react"
+        icon: ".NET",
+        img: "https://logo.letskhabar.com/img?tool=microsoft"
     },
-    {
-        icon: "vue",
-        img: "https://logo.letskhabar.com/img?tool=vue-js"
-    },
-    {
-        icon: "npm",
-        img: "https://logo.letskhabar.com/img?tool=npm"
-    },
-    {
-        icon: "yarn",
-        img: "https://logo.letskhabar.com/img?tool=yarn"
-    },
-    {
-        icon: "python",
-        img: "https://logo.letskhabar.com/img?tool=python"
-    },
-    {
-        icon: "wordpress",
-        img: "https://logo.letskhabar.com/img?tool=wordpress"
-    },
-    {
-        icon: "rust",
-        img: "https://logo.letskhabar.com/img?tool=rust"
-    }
-
 ];
 
 const DesignSkill = [
@@ -184,28 +174,7 @@ const cloud_infra_architecture_Skill = [
     {
         icon: "aws",
         img: "https://logo.letskhabar.com/img?tool=amazon-web-services"
-    },
-    {
-        icon: "azure",
-        img: "https://logo.letskhabar.com/img?tool=azure"
-    },
-    {
-        icon: "kubernetes",
-        img: "https://logo.letskhabar.com/img?tool=kubernetes"
-    },
-    {
-        icon: "travis",
-        img: "https://logo.letskhabar.com/img?tool=travis"
-    },
-    {
-        icon: "linode",
-        img: "https://logo.letskhabar.com/img?tool=linode"
-    },
-    {
-        icon: "oracle",
-        img: "https://logo.letskhabar.com/img?tool=oracle"
     }
-
 ];
 const data_Science_Skill = [
     // https://logo.letskhabar.com/ all logo list
@@ -292,61 +261,40 @@ const projects = [
         Live_link: "this is Live link",
         tool_used: "html,css,js",
         img: ""
-    },
-    {
-        id: "2",
-        name: "project 2",
-        Description: "this is Description",
-        Code_Link: "this is code link",
-        Live_link: "this is Live link",
-        tool_used: "html,css,js",
-        img: ""
-    },
-    {
-        id: "3",
-        name: "project 3",
-        Description: "this is Description",
-        Code_Link: "this is code link",
-        Live_link: "this is Live link",
-        tool_used: "html,css,js",
-        img: ""
     }
 ];
 const certificate = [
     {
         id: "1",
-        name: "certificate 1",
-        Description: "this is Description",
-        Link: "this is code link",
-        img: ""
+        name: "Purdue University",
+        Description: "This is my BSEE Degree",
+        Link: "https://www.purdue.edu",
+        img: "images/purdue.svg"
     },
     {
         id: "2",
-        name: "certificate 2",
-        Description: "this is Description",
-        Link: "this is code link",
-        img: ""
+        name: "DePaul University",
+        Description: "This is my MSCS Degree",
+        Link: "https://www.depaul.edu",
+        img: "images/depaul.svg"
     },
     {
         id: "3",
-        name: "certificate 3",
-        Description: "this is Description",
-        Link: "this is code link",
-        img: ""
+        name: "iOS Development: Architecture",
+        Description: "This is an iOS architecture certificate from Lynda.com",
+        Link: "https://www.linkedin.com/learning/ios-development-architecture",
+        img: "images/iOSDevelopment_Architecture_CertificateOfCompletion.svg"
     }
 ];
 
 const ProgrammingBio = [
-    "You can Remove this section in name.js",
-    "i know c java and python",
-    'you can edit this text from name.js',
-    "you can change below skill icons from name.js"
+    "I am proficient in C/C+, Python, C#, Swift, JavaScript, html and css"
 ];
 
 const DevBio = [
-    "Building responsive website front end using React-Redux",
-    'Developing mobile applications using Flutter',
-    'Creating application backend in Node & Express'
+    "Building responsive web application front-ends using React",
+    'Developing mobile applications using Apple native frameworks (UIKit, SwiftUI)',
+    'Creating application back-ends in Node, Python/Django and .NET'
 ];
 
 const DesignBio = [
@@ -365,10 +313,8 @@ const AboutBio =[
     ' I am available on almost every social media. You can message me'
 ];
 const EducationBio =[
-    ' I’m currently learning Full Stack Development.',
-    ' I’m currently working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc',
-    ' I’m a student pursuing {course} in {department} from {university}',
-    ' Fun fact: \'Equal is Not Always Equal in Javascript\'',
+    ' I’m currently pursuing my Google Cloud Platform Software Architect Certification',
+    ' I’m currently working with Node.js, Express.js, React, Javascript',
 ];
 const ProjectsBio =[
     ' I’m currently learning Full Stack Development.',
@@ -382,9 +328,7 @@ const ContactBio =[
 ];
 
 const cloud_infra_architecture_Bio = [
-    "You can Remove this section in name.js",
     "Experience working on multiple cloud platforms",
-    'Hosting and maintaining websites on virtual machine instances along with integration of databases',
 ];
 
 const data_Science_Bio = [

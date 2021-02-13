@@ -37,7 +37,7 @@ class Nav extends Component {
                   Home
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/about"
                   tag={Link}
@@ -47,7 +47,7 @@ class Nav extends Component {
                 >
                   About
                 </NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink
                   to="/education"
@@ -81,7 +81,7 @@ class Nav extends Component {
                   {skill}
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink
                   to="/contact"
                   tag={Link}
@@ -91,7 +91,7 @@ class Nav extends Component {
                 >
                   Contact Me
                 </NavLink>
-              </li>
+              </li> */}
             </ul>
           </header>
         </div>
