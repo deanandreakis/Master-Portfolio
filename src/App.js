@@ -13,10 +13,7 @@ import { greeting } from './Name';
 
 function App() {
   useEffect(() => {
-    document.title = `👨‍💻 ${greeting.full_name}'s Portfolio 👨‍💻`
-    const favicon = document.getElementById("favicon");
-    favicon.href = `https://logo.letskhabar.com/name?name=${greeting.logo_name}`;
-    
+    document.title = `${greeting.full_name}'s Portfolio`
   }, [])
   return (
     <div className="App">
