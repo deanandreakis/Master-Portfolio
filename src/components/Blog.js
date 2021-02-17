@@ -26,7 +26,6 @@ class Blog extends Component {
   
     render() {
         var { isLoaded, posts } = this.state
-        // console.log(projects)
         const projectlist = posts.map(
             post=> (
                 <div className="card icon-box" key={post.id}>

@@ -4,7 +4,7 @@ import Footer from '../components/Footer';
 import education from '../assets/img/education.svg';
 import './education.css';
 import Card from '../components/CertiCard'
-import { greeting, EducationBio } from '../Name'
+import { EducationBio } from '../Name'
 
 class Education extends Component {
     render() {
@@ -22,7 +22,6 @@ class Education extends Component {
           <div className="main">
           <div className="text-part" >
           <div className="text">
-            <h1>{greeting.title}</h1>
             <div className="edu">
               {EduList}
             </div>

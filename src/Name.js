@@ -23,7 +23,7 @@ const BlogData = {
     devto_username: "deanandreakis",
     Blog_Bio : [
         // this is visible in '/blog' section if show_Blog: true, else show in skill section
-        ""
+        "Here are links to Blog articles I have written at DEV.to"
     ]
 };
 
@@ -71,7 +71,7 @@ const socialMedia = [
 
 const ProgrammingSkill = [
     // https://logo.letskhabar.com/ all logo list
-    // you can use by changing tool name
+    // you can use it by changing tool name
     {
         icon: "c-programming",
         img: "https://logo.letskhabar.com/img?tool=c-programming"
@@ -313,8 +313,9 @@ const AboutBio =[
     ' I am available on almost every social media. You can message me'
 ];
 const EducationBio =[
-    ' I’m currently pursuing my Google Cloud Platform Software Architect Certification',
-    ' I’m currently working with Node.js, Express.js, React, Javascript',
+    ' I am a continuous learner. I learn best by doing and also by watching technical videos (YouTube, LinkedIn Learning).',
+    ' I earned my bachelor\'s degree in Electrical Engineering from Purdue University.',
+    ' I earned my master\'s degree in Computer Science from DePaul Univeristy.',
 ];
 const ProjectsBio =[
     ' I’m currently learning Full Stack Development.',
