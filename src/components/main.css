@@ -1,3 +1,6 @@
+a {
+    color: var(--dark-gray);
+}
 .main{
     display: flex;
     margin-top: 50px;
@@ -29,11 +32,11 @@
         width: 100vw;
     }
 }
-.button{
+/* .button{
     background-color: aqua;
     text-decoration: none;
     color: aliceblue;
     border-radius: 10px;
     border: 2px solid black;
     padding: 10px;
-}
+} */

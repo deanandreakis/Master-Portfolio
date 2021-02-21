@@ -28,7 +28,7 @@ class Nav extends Component {
             <ul className="menu">
               <li>
                 <NavLink
-                  to="/"
+                  exact to="/"
                   tag={Link}
                   activeStyle={{ fontWeight: "bold" }}
                   onMouseEnter={(event) => onMouseEnter(event)}
@@ -100,9 +100,9 @@ class Nav extends Component {
   }
   
   export default Nav;
-  const onMouseEnter = (event, color) => {
+  const onMouseEnter = (event) => {
     const el = event.target;
-    el.style.backgroundColor = "#e6e6e6";
+    el.style.backgroundColor = "#EDF2F4";
   };
   
   const onMouseOut = (event) => {

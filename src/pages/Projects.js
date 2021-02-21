@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Nav from '../components/Nav';
 import Footer from '../components/Footer'
-import project from '../assets/img/projects.svg'
+import project from '../assets/img/projects_red.svg'
 import Card from '../components/ProjectCard'
 import {ProjectsBio} from '../Name'
 

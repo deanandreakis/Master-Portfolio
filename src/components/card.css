@@ -17,8 +17,8 @@ img{
     flex-wrap: wrap;
 }
 code{
-    background-color: aliceblue;
-    color: green;
+    background-color: var(--light-gray);
+    color: var(--dark_gray);
     margin: 10px;
     padding: 3px;
 }
@@ -28,7 +28,7 @@ code{
     margin-top: 20px;
 }
 .fas{
-    color: #3498db;
+    color: var(--dark_gray);
 }
 
 
@@ -37,7 +37,7 @@ code{
 	padding: 30px;
 	position: relative;
 	overflow: hidden;
-	background: #fff;
+	background: var(--gray);
 	box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
 	transition: all 0.3s ease-in-out;
 	border-radius: 8px;
@@ -47,7 +47,7 @@ code{
 .icon-box::before {
 	content: '';
 	position: absolute;
-	background: #e1f0fa;
+	background: var(--light-gray);
 	right: -60px;
 	top: -40px;
 	width: 100px;
@@ -58,7 +58,7 @@ code{
 }
 
 .icon-box:hover::before {
-	background: #3498db;
+	background: var(--dark_gray);
 	right: 0;
 	top: 0;
 	width: 100%;
@@ -68,12 +68,12 @@ code{
 
 .icon-box:hover .title a,
 .icon-box:hover .black{
-	color: #fff;
+	color: var(--light-gray);
 }
 .icon-box:hover .fas{
-	color: #fff;
+	color: var(--light-gray);
 }
 
 .icon-box:hover .icon {
-	background: #fff;
+	background: var(--light-gray);
 }

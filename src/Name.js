@@ -313,7 +313,7 @@ const AboutBio =[
     ' I am available on almost every social media. You can message me'
 ];
 const EducationBio =[
-    ' I am a continuous learner. I learn best by doing and also by watching technical videos (YouTube, LinkedIn Learning).',
+    ' I am a continuous learner. I learn best by doing and also by watching technical videos (YouTube, LinkedIn Learning, Udemy).',
     ' I earned my bachelor\'s degree in Electrical Engineering from Purdue University.',
     ' I earned my master\'s degree in Computer Science from DePaul Univeristy.',
 ];

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webde from '../assets/img/game.svg';
+import webde from '../assets/img/placeholder.svg';
 import { Gamedev_Bio,Gamedev_Skill } from '../Name'
 
 class Game extends Component {

@@ -33,7 +33,8 @@ class Blog extends Component {
                 <h3 className="black">{post.title}</h3>
                 <p className="black">{post.description}</p>
                 <div className="icons">
-                <a target="blank" href={post.url}>Read More ....</a>
+                {/* <a target="blank" href={post.url}>Read More ....</a> */}
+                <a href={post.url}><i className="fas fa-globe fa-2x"></i></a>
                 </div>
                 </div>
 

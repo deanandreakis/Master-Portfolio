@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webd from '../assets/img/robotic.svg';
+import webd from '../assets/img/placeholder.svg';
 import { RoboticBio,RoboticSkill } from '../Name'
 
 class Robotic extends Component {

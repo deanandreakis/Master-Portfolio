@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webd from '../assets/img/programming.svg';
+import webd from '../assets/img/programming_dark_gray.svg';
 import { ProgrammingBio,ProgrammingSkill } from '../Name'
 
 class Programmer extends Component {

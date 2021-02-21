@@ -2,7 +2,7 @@
     bottom: 0;
 }
 span{
-    color: red;
+    color: var(--red);
 }
 a{
     text-decoration: none;

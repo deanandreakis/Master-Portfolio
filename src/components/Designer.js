@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webde from '../assets/img/web-design.svg';
+import webde from '../assets/img/placeholder.svg';
 import { DesignBio,DesignSkill } from '../Name'
 import './main.css'
 

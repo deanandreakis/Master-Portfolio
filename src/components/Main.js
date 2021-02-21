@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Home from '../assets/img/building_websites.svg';
+import Home from '../assets/img/building_websites_dark_gray.svg';
 import Sm from './Sm';
 import { greeting } from '../Name'
 import './main.css'

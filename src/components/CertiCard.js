@@ -11,7 +11,7 @@ class Card extends Component {
                 <h1 className="black">{Certi.name}</h1>
                 <p className="black">{Certi.Description}</p>
                 <div className="icons">
-                <a href={Certi.Link}><i class="fas fa-globe fa-2x"></i></a>
+                <a href={Certi.Link}><i className="fas fa-globe fa-2x"></i></a>
                 </div>
                 </div>
 

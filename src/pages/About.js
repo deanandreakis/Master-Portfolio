@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Nav from '../components/Nav';
 import Footer from '../components/Footer'
 import Sm from '../components/Sm'
-import aboutimg from '../assets/img/about_me.svg'
+import aboutimg from '../assets/img/placeholder.svg'
 import { greeting, AboutBio } from '../Name'
 
 class About extends Component {

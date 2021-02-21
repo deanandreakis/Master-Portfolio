@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webd from '../assets/img/mlai.svg';
+import webd from '../assets/img/placeholder.svg';
 import { Ml_ai_Bio,Ml_ai_Skill } from '../Name'
 import './main.css'
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webd from '../assets/img/web_developer.svg';
+import webd from '../assets/img/web_developer_dark_gray.svg';
 import { DevBio,DevSkill } from '../Name'
 import './main.css'
 

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Nav from '../components/Nav';
 import Footer from '../components/Footer'
 import Sm from '../components/Sm'
-import contact from '../assets/img/contact.svg'
+import contact from '../assets/img/placeholder.svg'
 import { greeting, ContactBio } from '../Name'
 
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webde from '../assets/img/data.svg';
+import webde from '../assets/img/placeholder.svg';
 import { data_Science_Bio,data_Science_Skill } from '../Name'
 
 class Data extends Component {
