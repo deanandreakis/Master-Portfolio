@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import webd from '../assets/img/cloud_hosting_dark_gray.svg';
+import webd from '../assets/img/design_team_dark_gray.svg';
 import { cloud_infra_architecture_Bio,cloud_infra_architecture_Skill } from '../Name'
 
 class Cloud extends Component {
@@ -26,7 +26,7 @@ class Cloud extends Component {
           </div>
           <div className="text-part">
             <div className="text">
-              <h2>Cloud Architecture</h2>
+              <h2>Software Architecture</h2>
               {BioList}
               <div className="sm">
               {CloudToollist}
