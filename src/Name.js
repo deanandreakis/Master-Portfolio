@@ -280,15 +280,15 @@ const certificate = [
     },
     {
         id: "3",
-        name: "iOS Development: Architecture",
-        Description: "This is an iOS architecture certificate from Lynda.com",
-        Link: "https://www.linkedin.com/learning/ios-development-architecture",
-        img: "images/iOSDevelopment_Architecture_CertificateOfCompletion.svg"
+        name: "Google Cloud Certified Professional Cloud Architect",
+        Description: "This is my GCP Cloud Architect Certification",
+        Link: "https://www.credential.net/6554ea1d-24f7-4373-acf9-04cdc1504619",
+        img: "images/GCPCloudArchitectCertificate.svg"
     }
 ];
 
 const ProgrammingBio = [
-    "I am proficient in C/C+, Python, C#, Swift, JavaScript, html and css"
+    "I am proficient in C/C+, Python, C#, Swift, JavaScript, HTML and CSS"
 ];
 
 const DevBio = [
