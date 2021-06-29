@@ -280,10 +280,10 @@ const certificate = [
     },
     {
         id: "3",
-        name: "Google Cloud Certified Professional Cloud Architect",
+        name: "GCP Professional Cloud Architect",
         Description: "This is my GCP Cloud Architect Certification",
         Link: "https://www.credential.net/6554ea1d-24f7-4373-acf9-04cdc1504619",
-        img: "images/GCPCloudArchitectCertificate.svg"
+        img: "https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32391752"
     }
 ];
 
