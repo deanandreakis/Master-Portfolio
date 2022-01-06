@@ -255,11 +255,11 @@ const Gamedev_Skill = [
 const projects = [
     {
         id: "1",
-        name: "project 1",
-        Description: "this is Description",
-        Code_Link: "this is code link",
-        Live_link: "this is Live link",
-        tool_used: "html,css,js",
+        name: "Master-Portfolio",
+        Description: "This web app!",
+        Code_Link: "https://github.com/deanandreakis/Master-Portfolio",
+        Live_link: "https://www.deanware.biz",
+        tool_used: "JS,HTML,CSS,React,Git,Heroku",
         img: ""
     }
 ];
