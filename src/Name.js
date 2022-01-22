@@ -259,7 +259,7 @@ const projects = [
         Description: "This web app!",
         Code_Link: "https://github.com/deanandreakis/Master-Portfolio",
         Live_link: "https://www.deanware.biz",
-        tool_used: "JS,HTML,CSS,React,Git,Heroku",
+        tool_used: "JS,HTML,CSS,React,Git,Netlify",
         img: ""
     }
 ];
