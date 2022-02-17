@@ -4,7 +4,7 @@ const greeting = {
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
     full_name: "Dean W. Andreakis",
-    email: "dean@deanware.biz",
+    email: "dean@deanware.com",
     subTitle:
     "I'm a professional software developer and architect. I'm a continuous learner who loves to work across technologies and domains.",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
@@ -31,15 +31,15 @@ const BlogData = {
 const socialMedia = [
     // https://logo.letskhabar.com/ all logo list
     // you can use by changing tool name
-    {
+    /* {
         icon: "facebook",
         img: "https://logo.letskhabar.com/img?tool=facebook0",
         link: "https://www.facebook.com/deanware55"
-    },
+    }, */
     {
         icon: "twitter",
         img: "https://logo.letskhabar.com/img?tool=twitter",
-        link: "https://www.twitter.com/deanware20"
+        link: "https://www.twitter.com/deanandreakis"
     },
     {
         icon: "github",
@@ -51,11 +51,11 @@ const socialMedia = [
         img: "https://logo.letskhabar.com/img?tool=dev",
         link: "https://dev.to/deanandreakis"
     },
-    {
+    /* {
         icon: "stackoverflow",
         img: "https://logo.letskhabar.com/img?tool=stack-overflow",
         link: "https://stackoverflow.com/users/35499/dean?tab=profile"
-    },
+    }, */
     {
         icon: "linkedin",
         img: "https://logo.letskhabar.com/img?tool=linkedin",
@@ -64,7 +64,7 @@ const socialMedia = [
     {
         icon: "mail",
         img: "https://logo.letskhabar.com/img?tool=mail",
-        link: "mailto:dean@deanware.biz"
+        link: "mailto:dean@deanware.com"
     }
 
 ];
