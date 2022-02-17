@@ -4,7 +4,7 @@ const greeting = {
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
     logo_img: "https://logo.letskhabar.com/name?name=name",
     full_name: "Dean W. Andreakis",
-    email: "dean@deanware.com",
+    email: "dean@deanware.biz",
     subTitle:
     "I'm a professional software developer and architect. I'm a continuous learner who loves to work across technologies and domains.",
     Programming: true,  // if true, Show 'Programming' section in home page, if false than not show
@@ -64,7 +64,7 @@ const socialMedia = [
     {
         icon: "mail",
         img: "https://logo.letskhabar.com/img?tool=mail",
-        link: "mailto:dean@deanware.com"
+        link: "mailto:dean@deanware.biz"
     }
 
 ];
