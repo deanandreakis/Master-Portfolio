@@ -81,6 +81,10 @@ const ProgrammingSkill = [
         img: "https://img.icons8.com/c-plus-plus"
     },
     {
+        icon: "ruby",
+        img: "https://img.icons8.com/ruby"
+    },
+    {
         icon: "python",
         img: "https://img.icons8.com/python"
     },
@@ -120,6 +124,10 @@ const DevSkill = [
     {
         icon: "node",
         img: "https://img.icons8.com/windows/32/000000/nodejs.png"
+    },
+    {
+        icon: "ruby on rails",
+        img: "https://img.icons8.com/windows/32/000000/ruby-on-rails.png"
     },
     {
         icon: "django",
@@ -288,13 +296,13 @@ const certificate = [
 ];
 
 const ProgrammingBio = [
-    "I am proficient in C/C+, Python, C#, Swift, JavaScript, HTML and CSS"
+    "I am proficient in C/C+, Ruby, Python, C#, Swift, JavaScript, HTML and CSS"
 ];
 
 const DevBio = [
     "Building responsive web application front-ends using React",
     'Developing mobile applications using Apple native frameworks (UIKit, SwiftUI)',
-    'Creating application back-ends in Node, Python/Django and .NET'
+    'Creating application back-ends in Node, Ruby On Rails, Python/Django and .NET'
 ];
 
 const DesignBio = [
