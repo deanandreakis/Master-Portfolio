@@ -74,7 +74,7 @@ const ProgrammingSkill = [
     // you can use it by changing tool name
     {
         icon: "c-programming",
-        img: "https://img.icons8.com/C"
+        img: "https://img.icons8.com/wired/64/000000/c-programming.png"
     },
     {
         icon: "c-plus",
@@ -119,7 +119,7 @@ const DevSkill = [
     },
     {
         icon: "node",
-        img: "https://img.icons8.com/nodejs"
+        img: "https://img.icons8.com/windows/32/000000/nodejs.png"
     },
     {
         icon: "django",
