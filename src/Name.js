@@ -2,7 +2,7 @@ const greeting = {
     title: "Hi, I'm Dean",
     logo_name: "Dean W. Andreakis",
     logo_img_show: false, // if true than show image(logo) in home page instant of text(logo)
-    logo_img: "https://logo.letskhabar.com/name?name=name",
+    logo_img: "https://img.icons8.com/name",
     full_name: "Dean W. Andreakis",
     email: "dean@deanware.biz",
     subTitle:
@@ -29,11 +29,11 @@ const BlogData = {
 
 
 const socialMedia = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     /* {
         icon: "facebook",
-        img: "https://logo.letskhabar.com/img?tool=facebook0",
+        img: "https://img.icons8.com/facebook0",
         link: "https://www.facebook.com/deanware55"
     }, */
     {
@@ -43,210 +43,210 @@ const socialMedia = [
     },
     {
         icon: "github",
-        img: "https://logo.letskhabar.com/img?tool=github",
+        img: "https://img.icons8.com/github",
         link: "https://www.github.com/deanandreakis"
     },
     {
         icon: "devto",
-        img: "https://logo.letskhabar.com/img?tool=dev",
+        img: "https://img.icons8.com/developer",
         link: "https://dev.to/deanandreakis"
     },
     /* {
         icon: "stackoverflow",
-        img: "https://logo.letskhabar.com/img?tool=stack-overflow",
+        img: "https://img.icons8.com/stack-overflow",
         link: "https://stackoverflow.com/users/35499/dean?tab=profile"
     }, */
     {
         icon: "linkedin",
-        img: "https://logo.letskhabar.com/img?tool=linkedin",
+        img: "https://img.icons8.com/linkedin",
         link: "https://www.linkedin.com/in/deanandreakis"
     },
     {
         icon: "mail",
-        img: "https://logo.letskhabar.com/img?tool=mail",
+        img: "https://img.icons8.com/mail",
         link: "mailto:dean@deanware.biz"
     }
 
 ];
 
 const ProgrammingSkill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use it by changing tool name
     {
         icon: "c-programming",
-        img: "https://logo.letskhabar.com/img?tool=c-programming"
+        img: "https://img.icons8.com/c-programming"
     },
     {
         icon: "c-plus",
-        img: "https://logo.letskhabar.com/img?tool=c-plus"
+        img: "https://img.icons8.com/c-plus"
     },
     {
         icon: "python",
-        img: "https://logo.letskhabar.com/img?tool=python"
+        img: "https://img.icons8.com/python"
     },
     {
         icon: "c-sharp-logo",
-        img: "https://logo.letskhabar.com/img?tool=c-sharp-logo"
+        img: "https://img.icons8.com/c-sharp-logo"
     },
     {
         icon: "swift",
-        img: "https://logo.letskhabar.com/img?tool=swift"
+        img: "https://img.icons8.com/swift"
     },
     {
         icon: "javascript",
-        img: "https://logo.letskhabar.com/img?tool=javascript"
+        img: "https://img.icons8.com/javascript"
     },
     {
         icon: "html",
-        img: "https://logo.letskhabar.com/img?tool=html"
+        img: "https://img.icons8.com/html"
     },
     {
         icon: "css",
-        img: "https://logo.letskhabar.com/img?tool=css3"
+        img: "https://img.icons8.com/css3"
     },
 ];
 
 const DevSkill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "react",
-        img: "https://logo.letskhabar.com/img?tool=react"
+        img: "https://img.icons8.com/react"
     },
     {
         icon: "apple-logo",
-        img: "https://logo.letskhabar.com/img?tool=apple-logo"
+        img: "https://img.icons8.com/apple-logo"
     },
     {
         icon: "node",
-        img: "https://logo.letskhabar.com/img?tool=node"
+        img: "https://img.icons8.com/node"
     },
     {
         icon: "django",
-        img: "https://logo.letskhabar.com/img?tool=django"
+        img: "https://img.icons8.com/django"
     },
     {
         icon: ".NET",
-        img: "https://logo.letskhabar.com/img?tool=microsoft"
+        img: "https://img.icons8.com/microsoft"
     },
 ];
 
 const DesignSkill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "figma",
-        img: "https://logo.letskhabar.com/img?tool=figma"
+        img: "https://img.icons8.com/figma"
     },
     {
         icon: "sketch",
-        img: "https://logo.letskhabar.com/img?tool=sketch"
+        img: "https://img.icons8.com/sketch"
     },
     {
         icon: "adobe-after-effects",
-        img: "https://logo.letskhabar.com/img?tool=adobe-after-effects"
+        img: "https://img.icons8.com/adobe-after-effects"
     },
     {
         icon: "adobe-xd",
-        img: "https://logo.letskhabar.com/img?tool=adobe-xd"
+        img: "https://img.icons8.com/adobe-xd"
     },
     {
         icon: "adobe-illustrator",
-        img: "https://logo.letskhabar.com/img?tool=adobe-illustrator"
+        img: "https://img.icons8.com/adobe-illustrator"
     },
     {
         icon: "adobe-photoshop",
-        img: "https://logo.letskhabar.com/img?tool=adobe-photoshop"
+        img: "https://img.icons8.com/adobe-photoshop"
     },
     {
         icon: "adobe-premiere-pro",
-        img: "https://logo.letskhabar.com/img?tool=adobe-premiere-pro"
+        img: "https://img.icons8.com/adobe-premiere-pro"
     }
 
 ];
 const cloud_infra_architecture_Skill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "gcp",
-        img: "https://logo.letskhabar.com/img?tool=google_cloud"
+        img: "https://img.icons8.com/google_cloud"
     },
     {
         icon: "aws",
-        img: "https://logo.letskhabar.com/img?tool=amazon-web-services"
+        img: "https://img.icons8.com/amazon-web-services"
     }
 ];
 const data_Science_Skill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "python",
-        img: "https://logo.letskhabar.com/img?tool=python"
+        img: "https://img.icons8.com/python"
     },
     {
         icon: "kaggle",
-        img: "https://logo.letskhabar.com/img?tool=kaggle"
+        img: "https://img.icons8.com/kaggle"
     },
     {
         icon: "tensorflow",
-        img: "https://logo.letskhabar.com/img?tool=tensorflow"
+        img: "https://img.icons8.com/tensorflow"
     },
     {
         icon: "jupyter",
-        img: "https://logo.letskhabar.com/img?tool=jupyter"
+        img: "https://img.icons8.com/jupyter"
     }
 
 ];
 const Ml_ai_Skill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "python",
-        img: "https://logo.letskhabar.com/img?tool=python"
+        img: "https://img.icons8.com/python"
     },
     {
         icon: "tensorflow",
-        img: "https://logo.letskhabar.com/img?tool=tensorflow"
+        img: "https://img.icons8.com/tensorflow"
     },
     {
         icon: "arduino",
-        img: "https://logo.letskhabar.com/img?tool=arduino"
+        img: "https://img.icons8.com/arduino"
     }
 
 ];
 
 const RoboticSkill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "tensorflow",
-        img: "https://logo.letskhabar.com/img?tool=tensorflow"
+        img: "https://img.icons8.com/tensorflow"
     },
     {
         icon: "arduino",
-        img: "https://logo.letskhabar.com/img?tool=arduino"
+        img: "https://img.icons8.com/arduino"
     },
     {
         icon: "python",
-        img: "https://logo.letskhabar.com/img?tool=python"
+        img: "https://img.icons8.com/python"
     },
 
 ];
 
 const Gamedev_Skill = [
-    // https://logo.letskhabar.com/ all logo list
+    // https://img.icons8.com/ all logo list
     // you can use by changing tool name
     {
         icon: "unity",
-        img: "https://logo.letskhabar.com/img?tool=unity"
+        img: "https://img.icons8.com/unity"
     },
     {
         icon: "c-programming",
-        img: "https://logo.letskhabar.com/img?tool=c-programming"
+        img: "https://img.icons8.com/c-programming"
     },
     {
         icon: "c-sharp",
-        img: "https://logo.letskhabar.com/img?tool=c-sharp-logo"
+        img: "https://img.icons8.com/c-sharp-logo"
     }
 
 ];
