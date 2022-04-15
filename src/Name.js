@@ -38,7 +38,7 @@ const socialMedia = [
     }, */
     {
         icon: "twitter",
-        img: "https://logo.letskhabar.com/img?tool=twitter",
+        img: "https://img.icons8.com/twitter",
         link: "https://www.twitter.com/deanandreakis"
     },
     {
