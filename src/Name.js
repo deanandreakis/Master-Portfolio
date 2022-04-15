@@ -82,7 +82,7 @@ const ProgrammingSkill = [
     },
     {
         icon: "ruby",
-        img: "https://img.icons8.com/ruby"
+        img: "https://img.icons8.com/ios/100/000000/ruby-gemstone.png"
     },
     {
         icon: "python",
@@ -123,11 +123,11 @@ const DevSkill = [
     },
     {
         icon: "node",
-        img: "https://img.icons8.com/windows/32/000000/nodejs.png"
+        img: "https://img.icons8.com/windows/128/000000/nodejs.png"
     },
     {
         icon: "ruby on rails",
-        img: "https://img.icons8.com/windows/32/000000/ruby-on-rails.png"
+        img: "https://img.icons8.com/windows/128/000000/ruby-on-rails.png"
     },
     {
         icon: "django",
