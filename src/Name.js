@@ -74,11 +74,11 @@ const ProgrammingSkill = [
     // you can use it by changing tool name
     {
         icon: "c-programming",
-        img: "https://img.icons8.com/c-programming"
+        img: "https://img.icons8.com/C"
     },
     {
         icon: "c-plus",
-        img: "https://img.icons8.com/c-plus"
+        img: "https://img.icons8.com/c-plus-plus"
     },
     {
         icon: "python",
@@ -111,7 +111,7 @@ const DevSkill = [
     // you can use by changing tool name
     {
         icon: "react",
-        img: "https://img.icons8.com/react"
+        img: "https://img.icons8.com/react-native"
     },
     {
         icon: "apple-logo",
@@ -119,7 +119,7 @@ const DevSkill = [
     },
     {
         icon: "node",
-        img: "https://img.icons8.com/node"
+        img: "https://img.icons8.com/nodejs"
     },
     {
         icon: "django",
@@ -169,11 +169,11 @@ const cloud_infra_architecture_Skill = [
     // you can use by changing tool name
     {
         icon: "gcp",
-        img: "https://img.icons8.com/google_cloud"
+        img: "https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"
     },
     {
         icon: "aws",
-        img: "https://img.icons8.com/amazon-web-services"
+        img: "https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"
     }
 ];
 const data_Science_Skill = [
