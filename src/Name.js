@@ -169,11 +169,11 @@ const cloud_infra_architecture_Skill = [
     // you can use by changing tool name
     {
         icon: "gcp",
-        img: "https://img.shields.io/badge/GCP%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"
+        img: "https://img.icons8.com/ios/50/000000/google-cloud-platform.png"
     },
     {
         icon: "aws",
-        img: "https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"
+        img: "https://img.icons8.com/windows/32/000000/amazon-web-services.png"
     }
 ];
 const data_Science_Skill = [
