@@ -181,7 +181,7 @@ const cloud_infra_architecture_Skill = [
     },
     {
         icon: "aws",
-        img: "https://img.icons8.com/windows/32/000000/amazon-web-services.png"
+        img: "https://img.icons8.com/windows/128/000000/amazon-web-services.png"
     }
 ];
 const data_Science_Skill = [
