@@ -322,8 +322,8 @@ const EducationBio =[
     ' I earned my master\'s degree in Computer Science from DePaul Univeristy.',
 ];
 const ProjectsBio =[
-    ' I’m currently learning Full Stack Development.',
-    ' I’m currently working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc'
+    ' I’m currently adding to my Full Stack Development skills and Software Architecture skills.',
+    ' I’m currently working with Node/Express, React, Javascript, and Swift'
 ];
 const ContactBio =[
     'I\'m a student pursuing {course} in {department} from {university}',
