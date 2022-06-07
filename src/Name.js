@@ -130,10 +130,6 @@ const DevSkill = [
         img: "https://img.icons8.com/windows/128/000000/ruby-on-rails.png"
     },
     {
-        icon: "django",
-        img: "https://img.icons8.com/django"
-    },
-    {
         icon: ".NET",
         img: "https://img.icons8.com/microsoft"
     },
@@ -302,7 +298,7 @@ const ProgrammingBio = [
 const DevBio = [
     "Building responsive web application front-ends using React",
     'Developing mobile applications using Apple native frameworks (UIKit, SwiftUI)',
-    'Creating application back-ends in Node, Ruby On Rails, Python/Django and .NET'
+    'Creating application back-ends in Node, Ruby On Rails, and .NET'
 ];
 
 const DesignBio = [
