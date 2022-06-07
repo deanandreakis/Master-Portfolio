@@ -309,8 +309,8 @@ const DesignBio = [
 
 
 const AboutBio =[
-    ' I’m currently learning Full Stack Development.',
-    ' I’m currently working with Node.js, Express.js, React, Mongodb, Javascript, Flutter, etc',
+    ' I’m currently adding to my Full Stack Development and Software Architecture skills.',
+    ' I’m currently working with Node/Express, React, Mongodb, Javascript, Swift, etc',
     ' I’m a student pursuing {course} in {department} from {university}',
     ' Fun fact: \'Equal is Not Always Equal in Javascript\'',
     ' I am From {City}',
